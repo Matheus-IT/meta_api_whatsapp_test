@@ -12,6 +12,7 @@ idna==3.10
 immutables==0.19
 importlib-metadata==4.8.3
 pydantic==1.9.2
+python-decouple==3.8
 python-dotenv==0.20.0
 requests==2.27.1
 sniffio==1.2.0
